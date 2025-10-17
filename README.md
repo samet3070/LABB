@@ -9,4 +9,4 @@ We can’t rely on CPU execution time to measure algorithm efficiency because it
 
 a.The time complexity is O(n)
 b.The time complexity is O(n2)
-c.Total divisions:10
+c.The time complexity is O(logn)
